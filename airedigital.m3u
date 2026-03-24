@@ -24,37 +24,34 @@ https://copacoradios.desdeparaguay.net/rockandpoptv/rockandpoptv_baja/chunklist.
 #EXTINF:-8 tvg-id="800tv.py" tvg-logo="https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/800tv.png",800 TV
 https://copacogen.desdeparaguay.net/800tv/800tv/index.m3u8?admin=nacion
 
-#EXTINF:-9 tvg-id="Educanal.py" tvg-logo="https://educanal.com.py/wp-content/uploads/2026/02/cropped-logo-nuevo-educanal-e1770072292135-135x82.png",EDUCANAL
-https://cloudtv.streaming.com.py/educanalpy/educanalpy/playlist.m3u8
-
-#EXTINF:-10 tvg-id="Aspentv.py" tvg-logo="https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/aspentv.png",ASPEN TV
+#EXTINF:-9 tvg-id="Aspentv.py" tvg-logo="https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/aspentv.png",ASPEN TV
 https://copacogen.desdeparaguay.net/aspentv/aspentv/index.m3u8?admin=nacion
 
-#EXTINF:-11 tvg-id="ParaguayTV.py" tvg-logo="https://iptv-epg.org/logos/Paraguay/ParaguayTV.py.png",PARAGUAY TV
+#EXTINF:-10 tvg-id="ParaguayTV.py" tvg-logo="https://iptv-epg.org/logos/Paraguay/ParaguayTV.py.png",PARAGUAY TV
 https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386.m3u8
 
-#EXTINF:-12 tvg-id="RPC.py" tvg-logo="https://media.trece.com.py/sites/2/2025/09/logotrece_2025.webp",TRECE
+#EXTINF:-11 tvg-id="RPC.py" tvg-logo="https://media.trece.com.py/sites/2/2025/09/logotrece_2025.webp",TRECE
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/82.m3u8
 
-#EXTINF:-13 tvg-id="Unicanal.py" tvg-logo="https://iptv-epg.org/logos/Paraguay/Unicanal.py.png",UNICANAL
+#EXTINF:-12 tvg-id="Unicanal.py" tvg-logo="https://iptv-epg.org/logos/Paraguay/Unicanal.py.png",UNICANAL
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/72.m3u8
 
-#EXTINF:-14 tvg-id="Gen.py" tvg-logo="https://i.imgur.com/vEMnZF4_d.webp?maxwidth=760&fidelity=grand",GEN 
+#EXTINF:-13 tvg-id="Gen.py" tvg-logo="https://i.imgur.com/vEMnZF4_d.webp?maxwidth=760&fidelity=grand",GEN 
 https://copacogen.desdeparaguay.net/gentv/gentv_py_alta/playlist.m3u8?admin=nacion
 
-#EXTINF:-15 tvg-id="Popu.py" tvg-logo="https://www.popular.com.py/joajishi/assets/img/tag-3.png",POPU
+#EXTINF:-14 tvg-id="Popu.py" tvg-logo="https://www.popular.com.py/joajishi/assets/img/tag-3.png",POPU
 https://copacogen.desdeparaguay.net/universotv/universotv_py_alta/playlist.m3u8?admin=nacion
 
-#EXTINF:-16 tvg-id="Mega.py" tvg-logo="https://megacadena.com.py/wp-content/uploads/2023/10/megacadena-w23-1.png",MEGA
+#EXTINF:-15 tvg-id="Mega.py" tvg-logo="https://megacadena.com.py/wp-content/uploads/2023/10/megacadena-w23-1.png",MEGA
 https://www.desde-paraguay.com/mega.m3u8
 
-#EXTINF:-17 tvg-id="Pro" tvg-logo="https://static.wixstatic.com/media/3fae4e_47eb435907ab4d95a9832a2022fbe604~mv2.png/v1/fill/w_291,h_133,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/PRO%20PNG%20BLANCO.png",PRO
+#EXTINF:-16 tvg-id="Pro" tvg-logo="https://i0.wp.com/television.com.py/wp-content/uploads/2016/08/LogoCanalPro.jpg?w=620&ssl=1",PRO
 https://www.desde-paraguay.com/pro.m3u8
 
-#EXTINF:-18 tvg-id="HEiNetwork.py" tvg-logo="https://i.imgur.com/oMHiGRN_d.webp?maxwidth=760&fidelity=grand",HEI
+#EXTINF:-17 tvg-id="HEiNetwork.py" tvg-logo="https://i.imgur.com/oMHiGRN_d.webp?maxwidth=760&fidelity=grand",HEI
 https://copacogen.desdeparaguay.net/heitv/heitv_py_alta/playlist.m3u8?admin=nacion
 
-#EXTINF:-19 tvg-id="Tropicalia.py" tvg-logo="https://i.imgur.com/oMML5Ue_d.webp?maxwidth=760&fidelity=gran",TROPICALIA
+#EXTINF:-18 tvg-id="Tropicalia.py" tvg-logo="https://i.imgur.com/oMML5Ue_d.webp?maxwidth=760&fidelity=gran",TROPICALIA
 https://copacogen.desdeparaguay.net/tropicaliatv/tropicaliatv_py_alta/chunklist.m3u8?admin=nacion
 
 #EXTINF:-19 tvg-id="E40.py" tvg-logo="https://grupovierci.brightspotcdn.com/dims4/default/853d5fc/2147483647/strip/true/crop/994x472+0+0/resize/400x190!/quality/90/?url=https%3A%2F%2Fk2-prod-grupo-vierci.s3.us-east-1.amazonaws.com%2Fbrightspot%2F66%2Fbd%2F3159d2b245dbb75fe3c0aad32eac%2Flogo-e40-2026.png",E40
