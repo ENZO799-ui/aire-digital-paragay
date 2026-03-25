@@ -70,3 +70,7 @@ https://copacogen.desdeparaguay.net/nandejaraneetv/nandejaraneetv/playlist.m3u8?
 
 #EXTINF:-24 tvg-id="RCC.py" tvg-logo="https://cdn.rcc.com.py/2024/07/logo-rcc-holding-100px.png",RCC
 https://copacogen.desdeparaguay.net/rcctv/rcctv/chunklist.m3u8?admin=tvaccion
+
+#EXTINF:-25 tvg-id="TigoSports.py" tvg-logo="https://iptv-epg.org/logos/Paraguay/TigoSports.py.png",TIGO SPORTS
+https://copacogen.desdeparaguay.net@live.enhdtv.com:8081/8160/index.m3u8
+
